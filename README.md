@@ -1,0 +1,5 @@
+•	Designed and developed a dual-view interactive HR dashboard in Tableau (HR Summary + HR Details) using a HumanResources dataset covering 14 fields including Employee ID, Department, Job Title, Salary, Performance Rating, Hire/Termination dates, Education Level, and Geography.
+•	Built 20 worksheets covering key HR KPIs — including Active Employees, Total Hired, Total Terminated, Hired by Year, Terminated by Year, and Department-wise headcount — enabling end-to-end workforce analytics.
+•	Created demographic and performance visualizations: Age vs. Education, Age vs. Salary, Gender vs. Education Level, Education vs. Performance Rating, and geographic distribution via Map (States) and Location views.
+•	Implemented cascading filters, interactive drill-downs, and dynamic navigation buttons (Summary/Details toggle) to enable non-technical stakeholders to explore HR data intuitively across departments and locations.
+•	Demonstrated Tableau visualization best practices including BAN (Big Aggregated Number) KPI tiles, custom background layouts, and export-ready design (PDF & image download buttons).
